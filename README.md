@@ -179,14 +179,4 @@ Toda ayuda es bienvenida, ya sea para corregir errores, mejorar la documentació
 Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
-
-## Contacto
-
-Si tienes preguntas o sugerencias, no dudes en contactarme:
-
-- **Nombre**: Alejandro Gonzalez Romero
-- **Correo electrónico**: gonzalez.romero.alejandroo@gmail.com
-- **GitHub**: (https://github.com/AlejandroRomero17)
-
----
 # CRUD-PRESTAMOS-FASTAPI
